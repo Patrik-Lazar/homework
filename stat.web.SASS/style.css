@@ -1,0 +1,23 @@
+
+body{
+    background:rgb(211, 71, 71);
+    margin:0;
+    padding:0;
+}
+h1{
+    font-size: 40px;
+}
+header{
+    background: rgb(87, 211, 71);
+    height: 170px;
+}
+nav ul li a{
+    text-decoration: none;
+color: rgb(255, 0, 0);
+font-size: 20px;
+
+}
+.Text{
+    position: relative;
+    background-color: rgb(40, 218, 144);
+}
